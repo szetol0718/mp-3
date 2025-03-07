@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Calculator from '../components/Calculator';
 import '../src/styles/projects.css'
 
